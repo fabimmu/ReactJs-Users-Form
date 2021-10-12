@@ -1,3 +1,11 @@
+# Users form example with React Js
+
+In this easy and small app, you can do and learn the following:
+
+1. Add a form to enter a new user
+2. Add the user
+3. Display the new addition in a list
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
